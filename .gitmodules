@@ -1,0 +1,3 @@
+[submodule "web/sdk"]
+	path = web/sdk
+	url = https://github.com/EagleSDR/WebSDK
